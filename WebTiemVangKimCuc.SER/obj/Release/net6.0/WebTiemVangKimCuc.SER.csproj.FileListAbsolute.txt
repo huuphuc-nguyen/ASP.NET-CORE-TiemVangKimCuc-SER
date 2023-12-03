@@ -1,0 +1,198 @@
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\appsettings.Development.json
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\appsettings.json
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\WebTiemVangKimCuc.SER.exe
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\WebTiemVangKimCuc.SER.deps.json
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\WebTiemVangKimCuc.SER.runtimeconfig.json
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\WebTiemVangKimCuc.SER.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\WebTiemVangKimCuc.SER.pdb
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\AutoMapper.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Azure.Core.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Azure.Identity.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Humanizer.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Mono.TextTemplating.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\NetTopologySuite.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\NetTopologySuite.IO.SqlServerBytes.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.CodeDom.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.Drawing.Common.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.Memory.Data.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.Security.Permissions.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.Text.Encodings.Web.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.Text.Json.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.csproj.AssemblyReference.cache
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.AssemblyInfoInputs.cache
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.AssemblyInfo.cs
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.csproj.CoreCompileInputs.cache
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.MvcApplicationPartsAssemblyInfo.cs
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.MvcApplicationPartsAssemblyInfo.cache
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\EFCoreSqlServerNetTopologySuite.cs
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\staticwebassets\msbuild.WebTiemVangKimCuc.SER.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\staticwebassets\msbuild.build.WebTiemVangKimCuc.SER.props
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebTiemVangKimCuc.SER.props
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.WebTiemVangKimCuc.SER.props
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\staticwebassets.pack.json
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\staticwebassets.build.json
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\staticwebassets.development.json
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\scopedcss\bundle\WebTiemVangKimCuc.SER.styles.css
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.csproj.CopyComplete
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\refint\WebTiemVangKimCuc.SER.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.pdb
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.genruntimeconfig.cache
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\ref\WebTiemVangKimCuc.SER.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Azure.Storage.Blobs.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Azure.Storage.Common.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.IO.Hashing.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\appsettings.Development.json
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\appsettings.json
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\WebTiemVangKimCuc.SER.exe
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\WebTiemVangKimCuc.SER.deps.json
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\WebTiemVangKimCuc.SER.runtimeconfig.json
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\WebTiemVangKimCuc.SER.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\WebTiemVangKimCuc.SER.pdb
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\AutoMapper.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Azure.Core.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Azure.Identity.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Azure.Storage.Blobs.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Azure.Storage.Common.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Humanizer.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Identity.Client.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.OpenApi.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Mono.TextTemplating.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\NetTopologySuite.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\NetTopologySuite.IO.SqlServerBytes.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Newtonsoft.Json.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.CodeDom.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.Drawing.Common.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.IO.Hashing.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.Memory.Data.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.Runtime.Caching.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.Security.Permissions.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.Text.Encodings.Web.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.Text.Json.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\System.Windows.Extensions.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.csproj.AssemblyReference.cache
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.GeneratedMSBuildEditorConfig.editorconfig
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.AssemblyInfoInputs.cache
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.AssemblyInfo.cs
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.csproj.CoreCompileInputs.cache
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.MvcApplicationPartsAssemblyInfo.cs
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.MvcApplicationPartsAssemblyInfo.cache
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\EFCoreSqlServerNetTopologySuite.cs
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\staticwebassets\msbuild.WebTiemVangKimCuc.SER.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\staticwebassets\msbuild.build.WebTiemVangKimCuc.SER.props
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebTiemVangKimCuc.SER.props
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.WebTiemVangKimCuc.SER.props
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\staticwebassets.pack.json
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\staticwebassets.build.json
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\staticwebassets.development.json
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\scopedcss\bundle\WebTiemVangKimCuc.SER.styles.css
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.csproj.CopyComplete
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\refint\WebTiemVangKimCuc.SER.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.pdb
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\WebTiemVangKimCuc.SER.genruntimeconfig.cache
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\ref\WebTiemVangKimCuc.SER.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\DotNetEnv.dll
+E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\bin\Release\net6.0\Sprache.dll

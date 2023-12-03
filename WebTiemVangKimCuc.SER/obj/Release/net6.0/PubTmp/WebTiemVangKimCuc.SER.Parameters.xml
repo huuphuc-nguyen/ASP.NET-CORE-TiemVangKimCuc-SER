@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="WebTiemVangKimCucSER" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\Huu\ Phuc\\@_\ IT\\CodeProject\\WebTiemVangKimCuc\\WebTiemVangKimCuc\.SER\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="WebTiemVangKimCuc.SER.Infrastructure.ApplicationDbContext" description="" value="Data Source=tcp:webtiemvangkimcucserdbserver.database.windows.net,1433;Initial Catalog=WebTiemVangKimCuc.SER_db;User Id=nhphuc236@webtiemvangkimcucserdbserver;Password=Huuphuc2002#" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^E:\\Huu\ Phuc\\@_\ IT\\CodeProject\\WebTiemVangKimCuc\\WebTiemVangKimCuc\.SER\\obj\\Release\\net6\.0\\PubTmp\\EFSQLScripts\\WebTiemVangKimCuc\.SER\.Infrastructure\.ApplicationDbContext\.sql$" />
+  </parameter>
+</parameters>

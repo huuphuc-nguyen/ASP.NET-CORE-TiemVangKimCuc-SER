@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAmeZGA/0GWEm17OUyAK2hxgAAAAACAAAAAAAQZgAAAAEAACAAAAD+3YGQYda1aSLFZCRn1JaujXekAm3/3QvE7twWpIkQjQAAAAAOgAAAAAIAACAAAACwosLkh24yW5nhbImyAjQZ8ZNBhlIX+Tz/cKITbf2aDYAAAACWGHq3HB5QYH9CCw8SMQ1vEjCbn3FJ4b4Yiiu3ubsZdH1qQhWjRhAuVllY8TzFBLDhGNepPM2TDN2jcw9M26LXJcHGD3+18b90meM6nIhbTIPmm0k4Mz0bhu9Mdg39nHg3zhTCJPBaInmSRLhz3ML5UrpF08o07uA6BwAPItx+LkAAAABATNWEBwJA54ggZ1A9+wqb1Nps8PbN4bsKSavOEW/Q099dbFtVPMCCaAoYOnSH+pfSfajmzhHVgr55mEZuftqW</EncryptedPassword>
+    <History>True|2023-11-24T02:49:47.6909686Z;True|2023-11-23T20:42:00.9768752-06:00;True|2023-11-18T18:40:51.7102664-06:00;True|2023-11-18T18:36:33.0694758-06:00;True|2023-11-18T12:03:10.7581944-06:00;True|2023-11-15T20:49:13.1419515-06:00;True|2023-10-18T21:27:32.9660993-05:00;True|2023-10-17T00:17:15.8111286-05:00;True|2023-10-17T00:11:09.2184950-05:00;True|2023-10-16T22:36:11.8096601-05:00;True|2023-10-14T13:48:14.8574728-05:00;True|2023-10-14T11:08:43.7484373-05:00;True|2023-10-13T16:52:21.5358529-05:00;True|2023-10-13T12:13:38.9152641-05:00;True|2023-10-12T11:37:35.5533164-05:00;True|2023-10-12T00:20:12.9960430-05:00;True|2023-10-12T00:12:32.9992298-05:00;False|2023-10-12T00:09:27.1770800-05:00;False|2023-10-12T00:07:13.0468813-05:00;True|2023-10-10T18:06:38.9411878-05:00;True|2023-10-08T10:38:56.7464270-05:00;True|2023-09-30T14:55:25.3876416-05:00;True|2023-09-21T22:55:20.1139349-05:00;True|2023-09-21T01:10:31.9723417-05:00;True|2023-09-21T01:07:03.9174572-05:00;True|2023-09-20T14:31:58.0962788-05:00;True|2023-09-20T14:09:11.9325178-05:00;True|2023-09-20T13:32:08.6294810-05:00;True|2023-09-20T13:21:34.6735857-05:00;True|2023-09-11T21:15:54.6711108-05:00;True|2023-08-27T10:55:43.3908488-05:00;True|2023-08-27T03:31:06.7047543-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="WebTiemVangKimCuc.SER.Infrastructure.ApplicationDbContext">
+      <Value>Data Source=tcp:webtiemvangkimcucserdbserver.database.windows.net,1433%3bInitial Catalog=WebTiemVangKimCuc.SER_db%3bUser Id=nhphuc236%40webtiemvangkimcucserdbserver%3bPassword=Huuphuc2002#</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

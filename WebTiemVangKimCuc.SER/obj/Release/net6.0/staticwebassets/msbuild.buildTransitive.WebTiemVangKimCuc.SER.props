@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WebTiemVangKimCuc.SER.props" />
+</Project>

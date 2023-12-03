@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\PubTmp\Out\" />
+  <dbfullsql path="E:\Huu Phuc\@_ IT\CodeProject\WebTiemVangKimCuc\WebTiemVangKimCuc.SER\obj\Release\net6.0\PubTmp\EFSQLScripts\WebTiemVangKimCuc.SER.Infrastructure.ApplicationDbContext.sql" />
+</sitemanifest>
